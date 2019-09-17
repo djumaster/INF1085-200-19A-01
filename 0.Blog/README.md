@@ -32,7 +32,7 @@ Astuces:
 | 300111671 | Sadissou, Alade Mouhamad `Abbas`         |                                                          | 10.13.237.63 |
 | 300111766 | Thiam, `Cheikh`                          |                                                          |              |
 | 300112017 | Adechoubou, `Olaïtan` Machoukouri O.R.   |                                                          | 10.13.237.60 |
-| 300112917 | Heri, `Djuma`                            |                                                          | 10.13.237.79 |
+| 300112917 | Heri, `Djuma`                            |  https://ubuntuserver101.blogspot.com                    | 10.13.237.79 |
 | 300112687 | Nsomwe Tshimanga, `Joseph` Hervé         |                                                          |              |
 | 300113775 | Armand, `Widby`                          |                                                          |              |
 
